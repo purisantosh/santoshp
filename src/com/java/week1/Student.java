@@ -1,3 +1,5 @@
+package com.java.week1;
+
 public class Student
 {
     private String name;
