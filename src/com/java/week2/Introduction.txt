@@ -1,0 +1,12 @@
+I am Santosh currently working with Uber as a Full Stack developer. I have 9years of professional experience in Enterprise software application development, testing, maintenance, and production support.
+Being a full-stack developer I have experience on various technologies
+
+frontend - React, Angular, HTML, CSS, JS,jquery
+
+backend - Java8, J2EE, REST, Spring, Springboot
+
+database - SQL NOSQL
+
+coming to cloud i have multi cloud experience EC2, S3, lambda, ECR, ECS, cloudformation and also i have expertise on latest CI/CD tools for deployment purpose.
+
+I also have setup infrastructure for hosting the application in various lower and higher environments. I have also participated in troubleshooting the production defects.
