@@ -15,6 +15,8 @@ public class RemovelastObject {
             abc.remove(abc.size()-1);
             System.out.println("last object is removed");
         }
+
+
         else
         {
             System.out.println("The array is empty");
